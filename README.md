@@ -3,27 +3,29 @@
 - Last updated : 2021.03.30
 - Contact : bjonguk@gmail.com
 
+
+
 ## Contents
 
-1. Traffic Accident Prevention Service using Public CCTV
+[1. Traffic Accident Prevention Service using Public CCTV](#traffic-accident-prevention-service-using-public-cctv)
 
-2. Object Detection with YOLO V5
+[2. Object Detection with YOLO V5](#object-detection-with-yolo-v5)
 
-3. ADAS Development through Path Prediction
+[3. ADAS Development through Path Prediction](#adas-development-through-path-prediction)
 
-4. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler
+[4. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler](#correlation-analysis-of-billboard-chart-and-youtube-views-using-web-crawler)
 
-5. Naver Smart Store, CRM and Google Sheets Automation Program
+[5. Naver Smart Store, CRM and Google Sheets Automation Program](#naver-smart-store-crm-and-google-sheets-automation-program)
 
-6. Repair Cafe : B2G Service Develop
+[6. Repair Cafe : B2G Service Develop](#repair-cafe)
 
-7. ENLIGHTEN X : B2B Service Develop
+[7. ENLIGHTEN X : B2B Service Develop](#enlighten-x)
 
-8. DIVEROID INDIEGOGO : Crowd Funding Project
+[8. DIVEROID INDIEGOGO : Crowd Funding Project](#indiegogo-crowd-funding-project)
 
-9. 6 D.o.F Robot ARM Simulation
+[9. 6 D.o.F Robot ARM Simulation](#shoes-arrange-robot-arm-simulation)
 
-10. Wheel Loader MR Mount Semi-Active Controller
+[10. Wheel Loader MR Mount Semi-Active Controller](#mr-mount-semi-active-control)
 
 
 * KOR Ver : http://asq.kr/LgNHVkQuXaZhhw
@@ -35,7 +37,7 @@
 
 
 
-### 1. Traffic Accident Prevention Service using Public CCTV
+### Traffic Accident Prevention Service using Public CCTV
 <2020 AI Training Data(Road driving video AI Data) Online Hackathon>
 
 1) Service Roadmap
@@ -52,7 +54,7 @@
 <br/>
 <br/>
 
-### 2. Object Detection with YOLO V5
+### Object Detection with YOLO V5
 <2020 AI Training Data(Road driving video AI Data) Self-driving object detection Challenge>
 
 1) S/W Architecture and Algorithm
@@ -82,7 +84,7 @@
 <br/>
 <br/>
 
-### 3. ADAS development through path prediction
+### ADAS development through path prediction
 <2020 IITP Based on the NVIDIA platform, Autonomous vehicle H/W and S/W platform development expert course and practical project> Final Project
 
 1) Data : KITTI set
@@ -133,7 +135,7 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 <br/>
 <br/>
 
-### 4. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler
+### Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler
 <2020 IITP Based on the NVIDIA platform, Autonomous vehicle H/W and S/W platform development expert course and practical project>  Mini Project
 
 1) Libraries
@@ -154,7 +156,7 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 <br/>
 <br/>
 
-### 5. Naver Smart Store, CRM and Google Sheets Automation Program
+### Naver Smart Store CRM and Google Sheets Automation Program
 
 1) Libraries
 
@@ -171,7 +173,7 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 <br/>
 <br/>
 
-### 6. Repair Cafe
+### Repair Cafe
 B2G Service Develop as Project Manager
 
 1) Web Site & Marketing
@@ -191,7 +193,7 @@ http://wefixup.world/
 <br/>
 
 
-### 7. ENLIGHTEN X
+### ENLIGHTEN X
 B2B Service Develop
 
 ![image](https://user-images.githubusercontent.com/71426994/112942790-9f980380-916b-11eb-9402-fb481661bdb6.png)
@@ -201,7 +203,7 @@ http://enlighten-x.com/
 <br/>
 <br/>
 
-### 8. INDIEGOGO Crowd Funding Project 
+### INDIEGOGO Crowd Funding Project 
 as Project Leader
 
 1) Landing Page and Marketing
@@ -214,8 +216,8 @@ https://www.indiegogo.com/projects/diveroid-89-dive-computer-that-has-everything
 <br/>
 <br/>
 
-### 9. 6 D.o.F Robot ARM
-Shoes arrange robot arm using SMC(Sliding Mode Control System)
+### Shoes arrange Robot Arm Simulation
+Shoes arrange 6 D.o.F Robot ARM using SMC(Sliding Mode Control System)
 
 1) SMC using Simulink
 
@@ -233,7 +235,7 @@ Shoes arrange robot arm using SMC(Sliding Mode Control System)
 <br/>
 <br/>
 
-### 10. MR Mount Semi-Active Control
+### MR Mount Semi Active Control
 Wheel Loader Cabin Vibration Controller using MR Mount
 
 1) Matlab Simulink
