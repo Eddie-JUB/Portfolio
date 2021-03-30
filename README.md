@@ -86,6 +86,14 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 
 ![KakaoTalk_Photo_2021-03-08-00-28-24](https://user-images.githubusercontent.com/71426994/112942375-f94bfe00-916a-11eb-8fb4-66e2babf1717.gif)
 
+- Sideways vehicle warning Visualization using Path Prediction
+
+![ezgif-3-b261e1c3ecae](https://user-images.githubusercontent.com/71426994/112948044-83e42b80-9172-11eb-9903-31686db5822d.gif)
+
+- Left front vehicle warning using Path Prediction
+
+![ezgif-3-ac5bf5fa1108](https://user-images.githubusercontent.com/71426994/112948083-91011a80-9172-11eb-8e7f-f8130eb12ffe.gif)
+
 5) Awards
 
 - Project Excellence Award
