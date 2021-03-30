@@ -106,7 +106,8 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 
 - ROS nodes
 
-2021-03-26 21_23_11.gif![image](https://user-images.githubusercontent.com/71426994/112941423-88581680-9169-11eb-9ac0-4cef4edf0160.png)
+![2021-03-26 21_23_11](https://user-images.githubusercontent.com/71426994/112959240-2e158080-917e-11eb-836a-abf0b72a81ce.gif)
+
 
 ![ezgif-3-53b94349bc2a](https://user-images.githubusercontent.com/71426994/112942340-edf8d280-916a-11eb-9db8-6b68de20741c.gif)
 
