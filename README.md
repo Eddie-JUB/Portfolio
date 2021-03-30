@@ -1,8 +1,35 @@
 
 ## Personal Portfolio
 - Last updated : 2021.03.30
-- Jongwook Bae
-- bjonguk@gmail.com
+- Contact : bjonguk@gmail.com
+
+## Contents
+
+1. Traffic Accident Prevention Service using Public CCTV
+
+2. Object Detection with YOLO V5
+
+3. ADAS Development through Path Prediction
+
+4. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler
+
+5. Naver Smart Store, CRM and Google Sheets Automation Program
+
+6. Repair Cafe : B2G Service Develop
+
+7. ENLIGHTEN X : B2B Service Develop
+
+8. DIVEROID INDIEGOGO : Crowd Funding Project
+
+9. 6 D.o.F Robot ARM Simulation
+
+10. Wheel Loader MR Mount Semi-Active Controller
+
+
+* KOR Ver : http://asq.kr/LgNHVkQuXaZhhw
+
+
+
 
 
 
