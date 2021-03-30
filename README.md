@@ -174,13 +174,14 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 ### Repair Cafe
 B2G Service Develop as Project Manager
 
-1) Web Site & Marketing
+1) Website & Marketing
 
 ![image](https://user-images.githubusercontent.com/71426994/112942705-7e371780-916b-11eb-9c47-3299bc07ffa0.png)
 
 http://wefixup.world/
 
-2) Space planning design and production using waste pallets
+2) Space design and production using waste pallets
+  recycling 
 
 ![image](https://user-images.githubusercontent.com/71426994/112942718-868f5280-916b-11eb-8019-b4139575ea4f.png)
 ![image](https://user-images.githubusercontent.com/71426994/112942739-8f802400-916b-11eb-9722-bb1126322327.png)
@@ -196,6 +197,8 @@ B2B Service Develop
 
 ![image](https://user-images.githubusercontent.com/71426994/112942790-9f980380-916b-11eb-9402-fb481661bdb6.png)
 http://enlighten-x.com/
+
+Website, Service develop
 
 [back to top](#contents)
 <br/>
@@ -234,7 +237,7 @@ Shoes arrange 6 D.o.F Robot ARM using SMC(Sliding Mode Control System)
 <br/>
 
 ### MR Mount Semi Active Control
-Wheel Loader Cabin Vibration Controller using MR Mount
+Wheel Loader Cabin Vibration Controller using MR Mount Semi-Active Control
 
 1) Matlab Simulink
 ![image](https://user-images.githubusercontent.com/71426994/112943287-44b2dc00-916c-11eb-894b-d5aab906511a.png)
