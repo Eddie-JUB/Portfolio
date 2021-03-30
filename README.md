@@ -30,7 +30,8 @@
 
 
 
-
+<br/>
+<br/>
 
 
 
@@ -48,8 +49,8 @@
 3) Awards
 - Rank 3rd 
 
-
-
+<br/>
+<br/>
 
 ### 2. Object Detection with YOLO V5
 <2020 AI Training Data(Road driving video AI Data) Self-driving object detection Challenge>
@@ -78,7 +79,8 @@
 - Rank 3rd 
 
 
-
+<br/>
+<br/>
 
 ### 3. ADAS development through path prediction
 <2020 IITP Based on the NVIDIA platform, Autonomous vehicle H/W and S/W platform development expert course and practical project> Final Project
@@ -128,7 +130,8 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 - 2020 IITP Excellent team nominated
 
 
-
+<br/>
+<br/>
 
 ### 4. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler
 <2020 IITP Based on the NVIDIA platform, Autonomous vehicle H/W and S/W platform development expert course and practical project>  Mini Project
@@ -148,7 +151,8 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 ![image](https://user-images.githubusercontent.com/71426994/112942441-1385dc00-916b-11eb-83bd-ad785add71ad.png)
 
 
-
+<br/>
+<br/>
 
 ### 5. Naver Smart Store, CRM and Google Sheets Automation Program
 
@@ -164,7 +168,8 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 ![KakaoTalk_Video_2021-03-28-19-29-18 2021-03-28 19_54_51](https://user-images.githubusercontent.com/71426994/112942544-3a441280-916b-11eb-891c-bba964879913.gif)
 
 
-
+<br/>
+<br/>
 
 ### 6. Repair Cafe
 B2G Service Develop as Project Manager
@@ -182,6 +187,8 @@ http://wefixup.world/
 ![image](https://user-images.githubusercontent.com/71426994/112942757-95760500-916b-11eb-9ec7-d503da4a3a6a.png)
 
 
+<br/>
+<br/>
 
 
 ### 7. ENLIGHTEN X
@@ -191,7 +198,8 @@ B2B Service Develop
 http://enlighten-x.com/
 
 
-
+<br/>
+<br/>
 
 ### 8. INDIEGOGO Crowd Funding Project 
 as Project Leader
@@ -203,7 +211,8 @@ https://www.indiegogo.com/projects/diveroid-89-dive-computer-that-has-everything
 2) Product Develop and Assembly
 
 
-
+<br/>
+<br/>
 
 ### 9. 6 D.o.F Robot ARM
 Shoes arrange robot arm using SMC(Sliding Mode Control System)
@@ -221,7 +230,8 @@ Shoes arrange robot arm using SMC(Sliding Mode Control System)
 ![압축ezgif-3-a61cbc8dfc39](https://user-images.githubusercontent.com/71426994/112944417-be979500-916d-11eb-831a-84e824fee3e7.gif)
 
 
-
+<br/>
+<br/>
 
 ### 10. MR Mount Semi-Active Control
 Wheel Loader Cabin Vibration Controller using MR Mount
