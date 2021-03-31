@@ -1,5 +1,5 @@
 
-## Personal Portfolio
+## Portfolio
 - Last updated : 2021.03.30
 - Contact : bjonguk@gmail.com
 
