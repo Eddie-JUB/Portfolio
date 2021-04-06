@@ -7,7 +7,7 @@
 
 ## Contents
 
-[1. Traffic Accident Prevention Service using Public CCTV](#traffic-accident-prevention-service-using-public-cctv)
+[1. Traffic Accident Prevention Service using Public CCTV and Path Prediction](#traffic-accident-prevention-service-using-public-cctv-and-path-prediction)
 
 [2. Object Detection with YOLO V5](#object-detection-with-yolo-v5)
 
@@ -34,7 +34,7 @@
 <br/>
 
 
-### Traffic Accident Prevention Service using Public CCTV
+### Traffic Accident Prevention Service using Public CCTV and Path Prediction
 <2020 AI Training Data(Road driving video AI Data) Online Hackathon>
 
 1) Service Roadmap
