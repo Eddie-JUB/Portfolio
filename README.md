@@ -1,6 +1,6 @@
 
 ## Portfolio
-- Last updated : 2021.03.30
+- Last updated : 2021.06.12
 - Contact : bjonguk@gmail.com
 
 
@@ -84,7 +84,7 @@
 
 ### ADAS development through path prediction
 <2020 IITP Based on the NVIDIA platform, Autonomous vehicle H/W and S/W platform development expert course and practical project> Final Project
-
+as Team Leader
 1) Data : KITTI set
 
 ![image](https://user-images.githubusercontent.com/71426994/112942261-d02b6d80-916a-11eb-8693-58beb15c060d.png)
@@ -167,13 +167,19 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 2) Result
 
 ![KakaoTalk_Video_2021-03-28-19-29-18 2021-03-28 19_54_51](https://user-images.githubusercontent.com/71426994/112942544-3a441280-916b-11eb-891c-bba964879913.gif)
+- GUI program
+- Auto login
+- one-click running
+- Naver,CRM and Google sheet automation
+
 
 [back to top](#contents)
 <br/>
 <br/>
 
 ### Repair Cafe
-B2G Service Develop as Project Manager
+B2G Service Develop 
+as Project Manager
 
 1) Website & Marketing
 
@@ -195,7 +201,7 @@ http://wefixup.world/
 
 ### ENLIGHTEN X
 B2B Service Develop
-
+as Project Manager
 ![image](https://user-images.githubusercontent.com/71426994/112942790-9f980380-916b-11eb-9402-fb481661bdb6.png)
 http://enlighten-x.com/
 
