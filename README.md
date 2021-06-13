@@ -45,7 +45,9 @@
 
 ![2021-03-26 20_19_14](https://user-images.githubusercontent.com/71426994/112942576-462fd480-916b-11eb-96cc-e2247c75cba5.gif)
 
-3) Awards
+3) Presentation Slides : [Link](https://docs.google.com/presentation/d/1M2b3987jgpg8GV9csR3zan_70qQAQgif1hzFduutcZ4/edit?usp=sharing)
+
+4) Awards
 - Rank 3rd 
 
 [back to top](#contents)
@@ -125,7 +127,9 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 
 ![ezgif-3-ac5bf5fa1108](https://user-images.githubusercontent.com/71426994/112948083-91011a80-9172-11eb-8e7f-f8130eb12ffe.gif)
 
-5) Awards
+5) Presentation Slides : [Link](https://docs.google.com/presentation/d/1DqLJsEtywsba9gfW7ciHusdFu0e4iX9MEY4SbMYELuA/edit?usp=sharing)
+
+6) Awards
 
 - Project Excellence Award
 - 2020 IITP Excellent team nominated
