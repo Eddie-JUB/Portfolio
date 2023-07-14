@@ -1,11 +1,13 @@
 
 ## Portfolio
-- Last updated : 2021.06.12
-- Contact : bjonguk@gmail.com
+- Last updated: 2023.07.14
+- Contact: bjonguk@gmail.com
 
 
 
 ## Contents
+
+[1. SiT: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots](#socially-interactive-pedestrian-trajectory-dataset-for-social-navigation-robots)
 
 [2. Traffic Accident Prevention Service using Public CCTV and Path Prediction](#traffic-accident-prevention-service-using-public-cctv-and-path-prediction)
 
@@ -17,11 +19,11 @@
 
 [6. Naver Smart Store, CRM and Google Sheets Automation Program](#naver-smart-store-crm-and-google-sheets-automation-program)
 
-[7. Repair Cafe : B2G Service Develop](#repair-cafe)
+[7. Repair Cafe: B2G Service Develop](#repair-cafe)
 
-[8. ENLIGHTEN X : B2B Service Develop](#enlighten-x)
+[8. ENLIGHTEN X: B2B Service Develop](#enlighten-x)
 
-[9. DIVEROID INDIEGOGO : Crowd Funding Project](#indiegogo-crowd-funding-project)
+[9. DIVEROID INDIEGOGO: Crowd Funding Project](#indiegogo-crowd-funding-project)
 
 [10. 6 D.o.F Robot ARM Simulation](#shoes-arrange-robot-arm-simulation)
 
@@ -34,10 +36,18 @@
 <br/>
 
 
-## Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots
+### Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots
 
+![demo_gif_compressed](https://github.com/Eddie-JUB/Portfolio/assets/71426994/dd7eddaf-19a7-4988-8f3c-6ab2c169b2b0)
 
+1) Webpage
+[https://spalaboratory.github.io/SiT/](https://spalaboratory.github.io/SiT/)
+   
+2) Github
+[https://github.com/Eddie-JUB/SiT-Dataset](https://github.com/Eddie-JUB/SiT-Dataset)
 
+3) Dataset link
+[Google Drive](https://drive.google.com/drive/folders/1kYGPJPoWn3J8s0mRWXZv9X-MOR5Hcg8u)
 
 ### Traffic Accident Prevention Service using Public CCTV and Path Prediction
 <2020 AI Training Data(Road driving video AI Data) Online Hackathon>
