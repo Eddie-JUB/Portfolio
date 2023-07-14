@@ -29,8 +29,8 @@
 
 [11. Wheel Loader MR Mount Semi-Active Controller](#mr-mount-semi-active-control)
 
+<!-- * KOR Ver : http://asq.kr/LgNHVkQuXaZhhw -->
 
-* KOR Ver : http://asq.kr/LgNHVkQuXaZhhw
 
 <br/>
 <br/>
