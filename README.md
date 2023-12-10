@@ -40,14 +40,14 @@
 
 ![demo_gif_compressed](https://github.com/Eddie-JUB/Portfolio/assets/71426994/dd7eddaf-19a7-4988-8f3c-6ab2c169b2b0)
 
-1) Webpage
+1) Paper:
+   [SiT Dataset: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots](https://openreview.net/forum?id=gMYsxTin4x)
+2) Website:
 [https://spalaboratory.github.io/SiT/](https://spalaboratory.github.io/SiT/)
    
-2) Github
+3) Github:
 [https://github.com/Eddie-JUB/SiT-Dataset](https://github.com/Eddie-JUB/SiT-Dataset)
 
-3) Dataset link
-[Google Drive](https://drive.google.com/drive/folders/1kYGPJPoWn3J8s0mRWXZv9X-MOR5Hcg8u)
 
 ### Traffic Accident Prevention Service using Public CCTV and Path Prediction
 <2020 AI Training Data(Road driving video AI Data) Online Hackathon>
