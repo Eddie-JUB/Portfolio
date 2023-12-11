@@ -4,6 +4,9 @@
 - Contact: bjonguk@gmail.com
 
 
+## CV
+[Click to Download CV](https://github.com/Eddie-JUB/Portfolio/blob/main/2301210_Jongwook_Bae_CV.pdf) 
+
 
 ## Contents
 
