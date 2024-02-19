@@ -39,7 +39,7 @@
 <br/>
 
 
-### Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots
+### Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots(NeurIPS 2023)
 
 ![demo_gif_compressed](https://github.com/Eddie-JUB/Portfolio/assets/71426994/dd7eddaf-19a7-4988-8f3c-6ab2c169b2b0)
 
