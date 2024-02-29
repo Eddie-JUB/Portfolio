@@ -30,7 +30,7 @@
 
 [10. DIVEROID INDIEGOGO: Crowd Funding Project](#indiegogo-crowd-funding-project)
 
-[11. 6 D.o.F Robot ARM Simulation](#shoes-arrange-robot-arm-simulation)
+[11. SMC-based 6 D.o.F Robot ARM Simulation](#shoes-arrange-robot-arm-simulation)
 
 [12. Wheel Loader MR Mount Semi-Active Controller](#mr-mount-semi-active-control)
 
@@ -41,7 +41,7 @@
 <br/>
 
 
-### Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots(NeurIPS 2023)
+### 1. Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots(NeurIPS 2023)
 
 ![demo_gif_compressed](https://github.com/Eddie-JUB/Portfolio/assets/71426994/dd7eddaf-19a7-4988-8f3c-6ab2c169b2b0)
 
@@ -53,14 +53,16 @@
 3) Github:
 [https://github.com/Eddie-JUB/SiT-Dataset](https://github.com/Eddie-JUB/SiT-Dataset)
 
-### LiDAR-based Simultaneous 3D Object Detection and SLAM integration(ITRC2022)
+
+
+### 2. LiDAR-based Simultaneous 3D Object Detection and SLAM integration(ITRC2022)
 
 https://github.com/Eddie-JUB/Portfolio/assets/71426994/532388ac-c58b-4b4e-bcab-61947c881759
 ![image](https://github.com/Eddie-JUB/Portfolio/assets/71426994/40c39322-3e4c-4d2c-b669-297fbb07e406)
 
 
 
-### Traffic Accident Prevention Service using Public CCTV and Path Prediction
+### 3. Traffic Accident Prevention Service using Public CCTV and Path Prediction
 <2020 AI Training Data(Road driving video AI Data) Online Hackathon>
 
 1) Service Roadmap
@@ -80,7 +82,7 @@ https://github.com/Eddie-JUB/Portfolio/assets/71426994/532388ac-c58b-4b4e-bcab-6
 <br/>
 <br/>
 
-### Object Detection with YOLO V5
+### 4. Object Detection with YOLO V5
 <2020 AI Training Data(Road driving video AI Data) Self-driving object detection Challenge>
 
 1) S/W Architecture and Algorithm
@@ -110,7 +112,7 @@ https://github.com/Eddie-JUB/Portfolio/assets/71426994/532388ac-c58b-4b4e-bcab-6
 <br/>
 <br/>
 
-### ADAS development through path prediction
+### 5. ADAS development through path prediction
 <2020 IITP Based on the NVIDIA platform, Autonomous vehicle H/W and S/W platform development expert course and practical project> Final Project
 as Team Leader
 1) Data : KITTI set
@@ -164,7 +166,7 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 <br/>
 <br/>
 
-### Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler
+### 6. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler
 <2020 IITP Based on the NVIDIA platform, Autonomous vehicle H/W and S/W platform development expert course and practical project>  Mini Project
 
 1) Libraries
@@ -185,7 +187,7 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 <br/>
 <br/>
 
-### Naver Smart Store CRM and Google Sheets Automation Program
+### 7. Naver Smart Store CRM and Google Sheets Automation Program
 
 1) Libraries
 
@@ -207,7 +209,7 @@ http://www.cvlibs.net/datasets/kitti/raw_data.php
 <br/>
 <br/>
 
-### Repair Cafe
+### 8. Repair Cafe
 B2G Service Develop 
 as Project Manager
 
@@ -229,7 +231,7 @@ http://wefixup.world/
 <br/>
 
 
-### ENLIGHTEN X
+### 9. ENLIGHTEN X
 B2B Service Develop
 as Project Manager
 ![image](https://user-images.githubusercontent.com/71426994/112942790-9f980380-916b-11eb-9402-fb481661bdb6.png)
@@ -241,7 +243,7 @@ Website, Service develop
 <br/>
 <br/>
 
-### INDIEGOGO Crowd Funding Project 
+### 10. INDIEGOGO Crowd Funding Project 
 as Project Leader
 
 1) Landing Page and Marketing
@@ -254,7 +256,7 @@ https://www.indiegogo.com/projects/diveroid-89-dive-computer-that-has-everything
 <br/>
 <br/>
 
-### Shoes arrange Robot Arm Simulation
+### 11. SMC-based Shoes arrange Robot Arm Simulation
 Shoes arrange 6 D.o.F Robot ARM using SMC(Sliding Mode Control System)
 
 1) SMC using Simulink
@@ -273,7 +275,7 @@ Shoes arrange 6 D.o.F Robot ARM using SMC(Sliding Mode Control System)
 <br/>
 <br/>
 
-### MR Mount Semi Active Control
+### 12. MR Mount Semi Active Control
 Wheel Loader Cabin Vibration Controller using MR Mount Semi-Active Control
 
 1) Matlab Simulink
