@@ -12,7 +12,7 @@
 
 [1. SiT: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots](#socially-interactive-pedestrian-trajectory-dataset-for-social-navigation-robotsneurips-2023)
 
-[2. LiDAR-based 3D Object Detection and SLAM integration](#lidar-based-3d-object-detection-and-slam-integrationiitp2022)
+[2. LiDAR-based 3D Object Detection and SLAM integration](#lidar-based-3d-object-detection-and-slam-integrationitrc2022)
 
 [3. Traffic Accident Prevention Service using Public CCTV and Path Prediction](#traffic-accident-prevention-service-using-public-cctv-and-path-prediction)
 
@@ -53,9 +53,10 @@
 3) Github:
 [https://github.com/Eddie-JUB/SiT-Dataset](https://github.com/Eddie-JUB/SiT-Dataset)
 
-### LiDAR-based 3D Object Detection and SLAM integration(IITP2022)
+### LiDAR-based Simultaneous 3D Object Detection and SLAM integration(ITRC2022)
 
 https://github.com/Eddie-JUB/Portfolio/assets/71426994/532388ac-c58b-4b4e-bcab-61947c881759
+![image](https://github.com/Eddie-JUB/Portfolio/assets/71426994/40c39322-3e4c-4d2c-b669-297fbb07e406)
 
 
 
