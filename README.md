@@ -1,6 +1,6 @@
 
 ## Portfolio
-- Last updated: 2023.07.14
+- Last updated: 2024.02.28
 - Contact: bjonguk@gmail.com
 
 
@@ -12,25 +12,27 @@
 
 [1. SiT: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots](#socially-interactive-pedestrian-trajectory-dataset-for-social-navigation-robots)
 
-[2. Traffic Accident Prevention Service using Public CCTV and Path Prediction](#traffic-accident-prevention-service-using-public-cctv-and-path-prediction)
+[2. LiDAR-based 3D Object Detection and SLAM integration](https://github.com/Eddie-JUB/Portfolio/edit/main/README.md#lidar-based-3d-object-detection-and-slam-integrationiitp2022)
 
-[3. Object Detection with YOLO V5](#object-detection-with-yolo-v5)
+[3. Traffic Accident Prevention Service using Public CCTV and Path Prediction](#traffic-accident-prevention-service-using-public-cctv-and-path-prediction)
 
-[4. ADAS Development through Path Prediction](#adas-development-through-path-prediction)
+[4. Object Detection with YOLO V5](#object-detection-with-yolo-v5)
 
-[5. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler](#correlation-analysis-of-billboard-chart-and-youtube-views-using-web-crawler)
+[5. ADAS Development through Path Prediction](#adas-development-through-path-prediction)
 
-[6. Naver Smart Store, CRM and Google Sheets Automation Program](#naver-smart-store-crm-and-google-sheets-automation-program)
+[6. Correlation Analysis of Billboard Chart and YouTube Views Using Web Crawler](#correlation-analysis-of-billboard-chart-and-youtube-views-using-web-crawler)
 
-[7. Repair Cafe: B2G Service Develop](#repair-cafe)
+[7. Naver Smart Store, CRM and Google Sheets Automation Program](#naver-smart-store-crm-and-google-sheets-automation-program)
 
-[8. ENLIGHTEN X: B2B Service Develop](#enlighten-x)
+[8. Repair Cafe: B2G Service Develop](#repair-cafe)
 
-[9. DIVEROID INDIEGOGO: Crowd Funding Project](#indiegogo-crowd-funding-project)
+[9. ENLIGHTEN X: B2B Service Develop](#enlighten-x)
 
-[10. 6 D.o.F Robot ARM Simulation](#shoes-arrange-robot-arm-simulation)
+[10. DIVEROID INDIEGOGO: Crowd Funding Project](#indiegogo-crowd-funding-project)
 
-[11. Wheel Loader MR Mount Semi-Active Controller](#mr-mount-semi-active-control)
+[11. 6 D.o.F Robot ARM Simulation](#shoes-arrange-robot-arm-simulation)
+
+[12. Wheel Loader MR Mount Semi-Active Controller](#mr-mount-semi-active-control)
 
 <!-- * KOR Ver : http://asq.kr/LgNHVkQuXaZhhw -->
 
@@ -50,6 +52,11 @@
    
 3) Github:
 [https://github.com/Eddie-JUB/SiT-Dataset](https://github.com/Eddie-JUB/SiT-Dataset)
+
+### LiDAR-based 3D Object Detection and SLAM integration(IITP2022)
+
+https://github.com/Eddie-JUB/Portfolio/assets/71426994/532388ac-c58b-4b4e-bcab-61947c881759
+
 
 
 ### Traffic Accident Prevention Service using Public CCTV and Path Prediction
