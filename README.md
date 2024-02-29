@@ -57,8 +57,8 @@
 
 ### 2. LiDAR-based Simultaneous 3D Object Detection and SLAM integration(ITRC2022)
 
-https://github.com/Eddie-JUB/Portfolio/assets/71426994/532388ac-c58b-4b4e-bcab-61947c881759
-![image](https://github.com/Eddie-JUB/Portfolio/assets/71426994/40c39322-3e4c-4d2c-b669-297fbb07e406)
+<img width="618" alt="ITRC" src="https://github.com/Eddie-JUB/Portfolio/assets/71426994/a8079984-8746-4216-8ac2-3721e4807bd7">
+
 
 
 
