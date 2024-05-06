@@ -5,7 +5,7 @@
 
 
 ## CV
-[Click to Download CV](https://github.com/Eddie-JUB/Portfolio/blob/main/2301210_Jongwook_Bae_CV.pdf) 
+[Click to Download CV](https://github.com/Eddie-JUB/Portfolio/blob/main/240502_Baejonguk_CV.pdf) 
 
 
 ## Contents
